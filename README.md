@@ -30,7 +30,7 @@ A Machine Learning web application designed to predict house prices based on var
 
 📂 Project Structure
 
-```text
+
 HousePrediction-app/
 │
 ├── data/
