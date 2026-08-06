@@ -61,18 +61,19 @@ Ensure you have Python 3.8 or higher installed on your machine.
 1. Clone the Repository:
 bash
 git clone [https://github.com/ShreyaDhar2/HousePrediction-app.git](https://github.com/ShreyaDhar2/HousePrediction-app.git)
+
 cd HousePrediction-app
 
 
 
 
-2. Create a Virtual Environment (Recommended):
+3. Create a Virtual Environment (Recommended):
 bash
- On Windows
+* On Windows:
 python -m venv venv
 venv\Scripts\activate
 
- On macOS/Linux
+ * On macOS/Linux
 python3 -m venv venv
 source venv/bin/activate
 
