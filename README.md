@@ -30,7 +30,7 @@ A Machine Learning web application designed to predict house prices based on var
 
 📂 Project Structure
 
-
+```text
 HousePrediction-app/
 │
 ├── data/
@@ -46,7 +46,7 @@ HousePrediction-app/
 ├── requirements.txt            # Python dependencies
 ├── .gitignore                  # Files and folders to ignore in Git
 └── README.md                   # Project documentation
-
+```
 
  🚀 Getting Started
 
